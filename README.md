@@ -5,3 +5,7 @@ Exemple, une page Web hébergée sur un petit réseau local permet d'accèder à
 # Comment ça fonctionne :
 Fonction ````is_local_server```` qui retourne la classe IP du réseau IP privée, A, B ou C sinon X pour un réseau public.
 
+Copier le contenu du fichier .inc ou faites un import du code avec ce lien https://github.com/cybertaf/is-local-server/blob/master/is_local_server.inc
+
+
+
